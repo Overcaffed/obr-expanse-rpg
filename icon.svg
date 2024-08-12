@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns:xlink="http://www.w3.org/2000/svg" width="24" height="24">
 
- <g id="figure_1">
-  <g id="axes_1">
-   <g id="patch_2">
     <circle cx="12" cy="12" r="10" fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2" />
-   </g>
-   <g id="patch_3">
-    <path d="
-    M 8 23 
-    L 10 3 
-    M 10 3 
-    L 20 23 
-    M 2 20 
-    L 23 13 
-" style="fill: none; stroke: #000; stroke-width: 2; stroke-linecap: round"/>
-   </g>
-  </g>
- </g>
+
+    <path 
+        fill="none"
+        fill-rule="evenodd"
+        stroke="#000"
+        stroke-width="2"
+        stroke-linecap="round" 
+        d="
+            M 8 23 
+            L 10 3 
+            M 10 3 
+            L 20 23 
+            M 2 20 
+            L 23 13 
+        "
+    />
 </svg>
