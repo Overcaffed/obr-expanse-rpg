@@ -3,6 +3,7 @@
   "name": "Owlbear Rodeo Expanse RPG extension",
   "author": "Overcaffed",
   "version": "0.0.0",
+  "manifest_version": 1,
   "homepage_url": "https://overcaffed.github.io/obr-expanse-rpg",
   "icons": [
     {
