@@ -1,7 +1,7 @@
 {
   "name": "Owlbear Rodeo Expanse RPG extension",
   "author": "Overcaffed",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "manifest_version": 1,
   "action": {
     "title": "Expanse RPG",
