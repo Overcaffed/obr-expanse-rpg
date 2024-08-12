@@ -1,0 +1,20 @@
+<svg xmlns:xlink="http://www.w3.org/2000/svg" width="24" height="24">
+
+    <circle cx="12" cy="12" r="10" fill="none" fill-rule="evenodd" stroke="#000" stroke-width="2" />
+
+    <path 
+        fill="none"
+        fill-rule="evenodd"
+        stroke="#000"
+        stroke-width="2"
+        stroke-linecap="round" 
+        d="
+            M 8 23 
+            L 10 3 
+            M 10 3 
+            L 20 23 
+            M 2 20 
+            L 23 13 
+        "
+    />
+</svg>
