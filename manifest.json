@@ -6,7 +6,7 @@
   "action": {
     "title": "Expanse RPG",
     "icon": "/icon.svg",
-    "popover": "/",
+    "popover": "/obr-expanse-rpg",
     "height": 600,
     "width": 400
   }
